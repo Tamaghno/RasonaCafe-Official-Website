@@ -456,7 +456,11 @@
   .about-image {
     position: absolute;
   }
-
+  
+  .fb-post{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
 
 
   /*---------------------------------------
